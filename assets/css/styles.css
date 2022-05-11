@@ -332,7 +332,7 @@ img{
   background-color: var(--container-color);
   box-shadow: 0 2px 6px rgba(65,11,16,.15);
   border-radius: 1rem;
-  margin-bottom: 25px;
+  margin-bottom: 35px;
 }
 
 .decoration__data:hover{
